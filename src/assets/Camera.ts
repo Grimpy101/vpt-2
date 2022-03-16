@@ -1,5 +1,5 @@
 import AnimatableAsset from "./AnimatableAsset.js";
 
-export default class Camera extends AnimatableAsset {
+export default class Camera implements AnimatableAsset {
 
 }

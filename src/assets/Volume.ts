@@ -1,5 +1,5 @@
 import AnimatableAsset from "./AnimatableAsset.js";
 
-export default class Volume extends AnimatableAsset {
+export default class Volume implements AnimatableAsset {
 
 }

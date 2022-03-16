@@ -1,5 +1,5 @@
 import AnimatableAsset from "./AnimatableAsset.js";
 
-export default class Light extends AnimatableAsset {
+export default class Light implements AnimatableAsset {
 
 }

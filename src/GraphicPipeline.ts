@@ -7,7 +7,7 @@ export default class GraphicPipeline {
     _processingElement: ProcessingElement;
 
     execute(): Output {
-        return null;
+        return this._processingElement.execute();
     }
 
     setTransformDirty() {
